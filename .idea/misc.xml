@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="FrameworkDetectionExcludesConfiguration">
+    <file type="web" url="file://$PROJECT_DIR$/../spring_mvc_ajax" />
+    <file type="web" url="file://$PROJECT_DIR$/../spring_mvc_annotation" />
+    <file type="web" url="file://$PROJECT_DIR$/../spring_mvc_extension" />
+    <file type="web" url="file://$PROJECT_DIR$/../ssm" />
+  </component>
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/../../../springboot2-master/boot-01-helloworld/pom.xml" />
+        <option value="$PROJECT_DIR$/../../../springboot2-master/boot-01-helloworld-2/pom.xml" />
+        <option value="$PROJECT_DIR$/../../../springboot2-master/boot-05-adminserver/pom.xml" />
+        <option value="$PROJECT_DIR$/../../../springboot2-master/boot-05-web-01/pom.xml" />
+        <option value="$PROJECT_DIR$/../../../springboot2-master/boot-05-web-admin/pom.xml" />
+        <option value="$PROJECT_DIR$/../spring_mvc_extension/pom.xml" />
+        <option value="$PROJECT_DIR$/../../../springboot2-master/boot-09-hello-test/pom.xml" />
+        <option value="$PROJECT_DIR$/../../../springboot2-master/boot-09-features-profile/pom.xml" />
+        <option value="$PROJECT_DIR$/../demo2/pom.xml" />
+        <option value="$PROJECT_DIR$/../demo3/pom.xml" />
+        <option value="$PROJECT_DIR$/../mybatis_parameter/pom.xml" />
+        <option value="$PROJECT_DIR$/../mybatis_resultMap/pom.xml" />
+        <option value="$PROJECT_DIR$/../mybatis_dynamicSQL/pom.xml" />
+        <option value="$PROJECT_DIR$/../mybatis_mbg/pom.xml" />
+        <option value="$PROJECT_DIR$/../ssm/pom.xml" />
+        <option value="$PROJECT_DIR$/../spring_mvc_annotation/pom.xml" />
+        <option value="$PROJECT_DIR$/../spring_mvc_ajax/pom.xml" />
+        <option value="$PROJECT_DIR$/../../课程资料/jiawawiki/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>
